@@ -1,0 +1,14 @@
+C:\Chewico\Projects\GimbernatWifLogIn\bin\Debug\net8.0\GimbernatWifLogIn.exe
+C:\Chewico\Projects\GimbernatWifLogIn\bin\Debug\net8.0\GimbernatWifLogIn.deps.json
+C:\Chewico\Projects\GimbernatWifLogIn\bin\Debug\net8.0\GimbernatWifLogIn.runtimeconfig.json
+C:\Chewico\Projects\GimbernatWifLogIn\bin\Debug\net8.0\GimbernatWifLogIn.dll
+C:\Chewico\Projects\GimbernatWifLogIn\bin\Debug\net8.0\GimbernatWifLogIn.pdb
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\GimbernatWifLogIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\GimbernatWifLogIn.AssemblyInfoInputs.cache
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\GimbernatWifLogIn.AssemblyInfo.cs
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\GimbernatWifLogIn.csproj.CoreCompileInputs.cache
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\GimbernatWifLogIn.dll
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\refint\GimbernatWifLogIn.dll
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\GimbernatWifLogIn.pdb
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\GimbernatWifLogIn.genruntimeconfig.cache
+C:\Chewico\Projects\GimbernatWifLogIn\obj\Debug\net8.0\ref\GimbernatWifLogIn.dll

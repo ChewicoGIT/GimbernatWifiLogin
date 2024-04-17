@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Chewico\\Projects\\GimbernatWifLogIn\\GimbernatWifLogIn.csproj": {}
+    "C:\\Chewico\\Projects\\GimbernatWifiLogIn\\GimbernatWifLogIn.csproj": {}
   },
   "projects": {
-    "C:\\Chewico\\Projects\\GimbernatWifLogIn\\GimbernatWifLogIn.csproj": {
+    "C:\\Chewico\\Projects\\GimbernatWifiLogIn\\GimbernatWifLogIn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Chewico\\Projects\\GimbernatWifLogIn\\GimbernatWifLogIn.csproj",
+        "projectUniqueName": "C:\\Chewico\\Projects\\GimbernatWifiLogIn\\GimbernatWifLogIn.csproj",
         "projectName": "GimbernatWifLogIn",
-        "projectPath": "C:\\Chewico\\Projects\\GimbernatWifLogIn\\GimbernatWifLogIn.csproj",
+        "projectPath": "C:\\Chewico\\Projects\\GimbernatWifiLogIn\\GimbernatWifLogIn.csproj",
         "packagesPath": "C:\\Users\\Chewico\\.nuget\\packages\\",
-        "outputPath": "C:\\Chewico\\Projects\\GimbernatWifLogIn\\obj\\",
+        "outputPath": "C:\\Chewico\\Projects\\GimbernatWifiLogIn\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
